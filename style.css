@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Halant:wght@600&display=swap');
 
 form {
-    height: 1189px;
-    width: 1134px;
-
+    height: 500px;
+    width: 1050px;
+  
     background: #FFFFFF;
-    margin: 100px auto;
-    padding-left: 142px;
-
+    margin-left:  250px;
+    padding-left: 10px;
+    
 }
 
 h3 {
@@ -29,13 +29,13 @@ h3 {
 }
 
 .lab .namy {
-
+    
     Font family: Halant;
-    font-style: bold;
+    font-style:  bold  ;
     Font-size: 32px;
     Line-height: 50px;
     font-weight: 600;
-
+  
     Vertical-align: Top;
 
 }
@@ -55,8 +55,8 @@ select {
 }
 
 input[type=submit] {
-    width: 38%;
-    margin-left: 290px;
+    width: 31%;
+    margin-left: 390px;
     background-color: #155EEF;
     ;
     color: white;
