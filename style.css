@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Halant:wght@600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 form {
     height: 500px;
     width: 1050px;
-  
     background: #FFFFFF;
-    margin-left:  250px;
+    margin: 1px auto;
     padding-left: 10px;
-    
+
 }
 
 h3 {
@@ -29,9 +28,9 @@ h3 {
 }
 
 .lab .namy {
-    
-    Font family: Halant;
-    font-style:  bold  ;
+
+    font-family: Halant;
+    font-style: bold;
     Font-size: 32px;
     Line-height: 50px;
     font-weight: 600;
@@ -51,16 +50,23 @@ select {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+   
 }
 
 input[type=submit] {
     width: 31%;
     margin-left: 390px;
     background-color: #155EEF;
-    ;
+    
     color: white;
     padding: 14px 20px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+}
+.input ::placeholder{
+    Font-style: Regular;
+        Line-height: 24px;
+        Align: Left;
+        Vertical-align: Top;
 }
