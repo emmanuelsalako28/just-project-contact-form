@@ -5,19 +5,16 @@ form {
     width: 1050px;
     background: #FFFFFF;
     margin: 1px auto;
-    padding-left: 10px;
-
+    
 }
 
 h3 {
     font-family: Halant;
     font-size: 64px;
-    font-weight: 600;
-    line-height: 96px;
-    letter-spacing: 0.005em;
+    font-weight: 600px;
+    line-height: 60px;
     text-align: left;
-    padding-top: 78px;
-    padding-right: 599px;
+    
 }
 
 .lab {
